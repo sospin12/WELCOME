@@ -1,4 +1,5 @@
-### Hi I am Santiago Ospina Cabarcas, I am a Mechanical Engeneer, I am lookig for some programming knowledge. I will be posting some interesting proyects in several lenguages here, so check them out, i will be open to any advice. :)
+### Hi I am Santiago Ospina Cabarcas, I am a Mechanical Engeneer, I am lookig for some backend programming knowledge. I will be posting some interesting proyects in several lenguages here, so check them out, i will be open to any advice. :)
+
 
 <!--
 **sospin12/sospin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
