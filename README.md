@@ -5,7 +5,7 @@
 SOC: Santiago Ospina Cabarcas (My name).
 
 JAVA: The lenguage I am using.
-  JAVA : JAVA.
+  \nJAVA : JAVA.
   PYTHON : PY.
   JAVASCRIPT : JS.  
 
