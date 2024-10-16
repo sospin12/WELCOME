@@ -1,5 +1,10 @@
 ### Hi I am Santiago Ospina Cabarcas, I am a Mechanical Engeneer, I am lookig for some backend programming knowledge. I will be posting some interesting proyects in several lenguages here, so check them out, i will be open to any advice.
 
+NOMENCLATURA: SOC-JAVA-SC-001
+SOC: Santiago Ospina Cabarcas (My name).
+JAVA: The lenguage I am using.
+SC:  which stands for Sergi Code, is the code base of.
+001: a consecutive number.
 
 <!--
 **sospin12/sospin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
