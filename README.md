@@ -8,11 +8,13 @@ SOC: Santiago Ospina Cabarcas (My name).
 JAVA: The lenguage I am using.
  * JAVA : JAVA.
  * PYTHON : PY.
- * JAVASCRIPT : JS. 
+ * JAVASCRIPT : JS.
+   
 
 SC:  which stands for Sergi Code, is the code base of.
 * SC : Sergi Code.
 * LC : Linkedin Curse.
+  
   
 001: a consecutive number.
 
