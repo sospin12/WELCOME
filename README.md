@@ -2,7 +2,7 @@
 
 NOMENCLATURA: SOC-JAVA-SC-001
 SOC: Santiago Ospina Cabarcas (My name).
-JAVA: The lenguage I am using.
+JAVA: The lenguage I am using.}
 SC:  which stands for Sergi Code, is the code base of.
 001: a consecutive number.
 
