@@ -2,9 +2,9 @@
 
 ## NOMENCLATURE: SOC-JAVA-SC-001
 
-##SOC: Santiago Ospina Cabarcas (My name).
+SOC: Santiago Ospina Cabarcas (My name).
 
-##JAVA: The lenguage I am using.
+#JAVA: The lenguage I am using.
   JAVA : JAVA.
   PYTHON : PY.
   JAVASCRIPT : JS.  
