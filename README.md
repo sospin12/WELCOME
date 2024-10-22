@@ -14,7 +14,7 @@ JAVA: The lenguage I am using.
 SC:  which stands for Sergi Code, is the code base of.
 * SC : Sergi Code.
 * LC : Linkedin Curse.
-* PF : fundamentos de programación.
+* PF : Promgramming Fundamnetals.
   
   
 001: a consecutive number.
